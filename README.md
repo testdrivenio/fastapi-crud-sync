@@ -1,5 +1,7 @@
 # Developing and Testing an API with FastAPI and Pytest
 
+![DockerCI](https://github.com/atrakic/fastapi-crud-sync/workflows/DockerCI/badge.svg)
+
 Syncronous Example
 
 ## Want to use this project?
