@@ -1,10 +1,11 @@
 from typing import List
-from sqlalchemy.orm import Session
-from fastapi import APIRouter, Depends, HTTPException, Path
 
-from app.db import SessionLocal
+from fastapi import APIRouter, Depends, HTTPException, Path
+from sqlalchemy.orm import Session
+
 from app.api import crud
 from app.api.models import NoteDB, NoteSchema
+from app.db import SessionLocal
 
 
 router = APIRouter()

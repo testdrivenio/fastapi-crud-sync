@@ -1,6 +1,6 @@
 # Developing and Testing an API with FastAPI and Pytest
 
-Syncronous Example
+Synchronous Example
 
 ## Want to use this project?
 
